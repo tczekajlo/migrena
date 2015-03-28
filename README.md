@@ -45,7 +45,7 @@ DISK_PATH="/opt/stack/data/nova/instances/%s/disk"
 #Name of NBD device
 NBD_DEVICE="/dev/nbd15"
 
-#Port numer for nbd-server
+#Port number for nbd-server
 NBD_SERVER_PORT=2666
 
 #Credentials to source environment. 
